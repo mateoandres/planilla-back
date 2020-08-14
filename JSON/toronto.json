@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Toronto Raptors",
+        "coach": "Nick Nurse",
+        "image": "https://images7.alphacoders.com/971/thumb-1920-971199.jpg",
+        "team":[
+            "Terence Davis",
+            "Oshae Brissett",
+            "Dewan Hernandez",
+            "Pascal Siakam",
+            "Stanley Johnson"
+        ]
+    }  
+]

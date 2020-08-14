@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Golden State Warriors",
+        "coach": "Steve Kerr",
+        "image": "https://images.alphacoders.com/971/thumb-1920-971254.jpg",
+        "team":[
+            "Ky Bowman",
+            "Stehen Curry",
+            "Klay Thompson",
+            "Marquese Chriss",
+            "Kevon Looney"
+        ]
+    }
+]
